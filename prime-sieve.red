@@ -7,7 +7,7 @@ Red [
 
 prime-sieve: function [
     "Finds the prime numbers less then or equal to n"
-    n [integer!] "primes less than n" 
+    n [integer!] "upper limit" 
 ][
     primes: make block! n / log-e n
     append primes 2
