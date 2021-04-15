@@ -4,4 +4,4 @@ A set of random and unrelated Red scripts, demonstrating different aspects of th
 
 ### prime-sieve.red
 
-A prime number sieve, demonstrating the use of `remove-each`.
+A prime numbers sieve, demonstrating the use of `remove-each`.
